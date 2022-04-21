@@ -3,7 +3,11 @@ import Header from "./Header"
 const App = () => {
     return (
       <>
-        <Header/>
+
+      <header>
+
+      </header>
+        
         
       </>
     )
