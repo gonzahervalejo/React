@@ -1,13 +1,14 @@
-import NavBar from "./components/NavBar"
+// //  import App from "./App"
 
-const Header = () => {
-  return (
+// const Header = () => {
+//   return (
     
-    <header className="header">
-      <h1 className="header__titlo">E-Commerce</h1>
-      <NavBar/>
-    </header>
-  )
-}
+//     <header className="header">
+//       <h1></h1>
+//       {/* <h1 className="header__titlo">E-Commerce</h1> */}
+//       {/* <App/> */}
+//     </header>
+//   )
+// }
 
-export default Header
+// export default Header
