@@ -1,11 +1,12 @@
-import Nav from "./components/NavBar"
+import NavBar from "./components/NavBar"
 
 const Header = () => {
   return (
-    <Header className="header">
+    
+    <header className="header">
       <h1 className="header__titlo">E-Commerce</h1>
-      <Nav/>
-    </Header>
+      <NavBar/>
+    </header>
   )
 }
 

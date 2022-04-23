@@ -1,12 +1,13 @@
+
 import Header from "./Header"
 
 const App = () => {
     return (
       <>
 
-      <header>
+      <Header>
 
-      </header>
+      </Header>
         
         
       </>
