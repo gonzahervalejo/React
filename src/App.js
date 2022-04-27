@@ -1,18 +1,17 @@
+import ItemListContainer from "./components/ItemListContainer"
 
-//  import Header from "./Header"
+import  NavBar  from "./components/NavBar"
 
-// const App = () => {
-//     return (
-//       <>
+const App = () => {
+    return (
+      <>
 
-//       <Header>
+      <NavBar/>
+      <ItemListContainer  greeting="Hola te saluda gon"/>
         
-
-//       </Header>
         
-        
-//       </>
-//     )
-//   }
+      </>
+    )
+  }
   
-//   export default App
+  export default App
